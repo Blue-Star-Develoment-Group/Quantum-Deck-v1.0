@@ -31,14 +31,14 @@ or
 ### Ports
 
 -    2x 10GB/s USB 3.2
--    1x m.2 slot
+-    1x m.2 key M slot
+-    1x m.2 key E slot
 -    1x PCIe x1 lane
--    4x USB 2.0
+-    2x USB 2.0
 -    1x HDMI
 -    2x Display Port
--    1x Ethernet
 -    1x 3.5mm audio jack (using a Realtek ALC256)
--    3x Quantumn Deck Expansion Slots
+-    4x Quantum Deck Expansion Slots
 	
 ### Expanaion ports
 

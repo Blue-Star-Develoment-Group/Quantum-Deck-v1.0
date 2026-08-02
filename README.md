@@ -23,8 +23,10 @@ The Mu draws 45w of power so I'd recomend a 60w PD charger but if you are using 
 A search term you could use is
 
 > 60 watt power delivery charger
+
 or
-> 60 watt laptop charger
+
+> 60 watt laptop charger 
 
 ### Ports
 
